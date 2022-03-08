@@ -7,7 +7,7 @@ Check out Presentation at [Link](https://github.com/woog2ee/Predicting-MBTI-Pers
 - **Seunguk Yu**: School of Computer Science & Engineering in CAU   
 - **Sangryul Kim**: School of Computer Science & Engineering in CAU   
 - **Jungjoon Kim**: School of Applied Statistics in CAU   
-- **Gyungbin Park**: School of Computer Science & Engineering in CAU
+- **Gyeongbin Bak**: School of Computer Science & Engineering in CAU
 
 ## 🕒 Meetings
 | **Dates** | **Contents** |
